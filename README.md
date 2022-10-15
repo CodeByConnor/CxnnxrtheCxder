@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeByConnor
 - 👀 I’m interested in data strucures, algorithms, AI, cybersecurity, and machine learning.
-- 🌱 I’m currently learning Java and Python 3.
+- 🌱 I’m currently learning Java, Python, and JavaScript.
 - 💞️ I’m looking to collaborate on projects in relevant areas.
 - 📫 How to reach me EMAIL: @connorphamemail@gmail.com  MOBILE PHONE NUMBER: (619)761-2818
 
