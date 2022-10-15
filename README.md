@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CxnnxrtheCxder
+- 👋 Hi, I’m @CodeByConnor
 - 👀 I’m interested in data strucures, algorithms, AI, cybersecurity, and machine learning.
 - 🌱 I’m currently learning Java and Python 3.
 - 💞️ I’m looking to collaborate on projects in relevant areas.
